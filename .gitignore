@@ -1,4 +1,3 @@
-UE-Project/
 
 Capture-Process/Annotation
 Capture-Process/AnnotationCoarse
@@ -9,24 +8,11 @@ Capture-Process/SegmentationImage
 Capture-Process/SurfaceNormalsImage
 
 process/dataset
-process/Annotation
-
-process_updated/Annotation
-process_updated/DepthPerspectiveImage
-process_updated/DepthPlanarImage
-process_updated/DepthVisImage
-process_updated/InfraredImage
-process_updated/PointCloud
-process_updated/Record
-process_updated/SceneImage
-process_updated/SegmentationImage
-process_updated/SegmentationNormalImage
-process_updated/SurfaceNormalsImage
-
-process.zip
-process_1.zip
-
-PromptCraft-Robotics
-UAV-LODBoost
 
 BACKUP
+UAV-LODBoost
+PromptCraft-Robotics
+
+.vscode
+
+__pycache__/
